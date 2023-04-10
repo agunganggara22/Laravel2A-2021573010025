@@ -125,7 +125,7 @@ Route::get('mahasiswa/andi', function () {
     echo "Halaman mahasiswa andi";
 });
 Route::get('/mahasiswa/andi', function () {
-    echo "Halaman mahasiswa andi";
+    echo "Halaman mahasiswa ini andi";
 });
 
 
